@@ -9,12 +9,11 @@ add_newline = true
 # Change command timeout from 500 to 1000 ms
 command_timeout = 1000
 
-# new config
+# format
 format = """$env_var $all"""
 
 # Change the default prompt characters
 [character]
-# old config
 success_symbol = "[](#00ff00)"
 error_symbol = "[](#ff0000)"
 
