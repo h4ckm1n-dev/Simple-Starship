@@ -4,6 +4,8 @@
 
 This repository hosts a template for configuring the Starship prompt, a fast, customizable prompt for any shell. Starship works across most shells and operating systems. This template includes a variety of configurations to customize your terminal prompt for a more informative and visually appealing experience.
 
+(Starship Prompt)[https://starship.rs/]
+
 ## Configuration overview 
 
 Configuration Overview
