@@ -1,4 +1,4 @@
-# Startship preset 
+# Simple Starship
 
 ![Capture d’écran du 2024-04-07 13-53-13](https://github.com/h4ckm1n-dev/Starship-Ultimate/assets/97511408/14bf0f81-1134-4d94-858d-1a0667f46346)
 
