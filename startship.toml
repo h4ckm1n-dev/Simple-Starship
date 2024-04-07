@@ -60,7 +60,7 @@ disabled = true
 
 [git_branch]
 symbol = " "
-format = "via [$symbol$branch]($style) "
+format = "on [$symbol$branch]($style) "
 truncation_symbol = "…/"
 style = "bold green"
 
