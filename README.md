@@ -10,25 +10,45 @@ Configuration Overview
 The configuration file starship.toml is located in your ~/.config directory. This file controls the appearance and behavior of the Starship prompt. Here's a brief overview of the included configurations:
 
 **Schema**: Get editor completions based on the config schema by specifying the $schema.
+
 **New Line**: Adds a blank line between shell prompts for better readability.
+
 **Command Timeout**: Adjusts the timeout duration for commands.
+
 **Prompt Format**: Customizes the overall format of the prompt.
+
 **Character**: Changes the default prompt symbols for success and error states.
+
 **Username**: Shows the username with customization options for style and always showing it.
+
 **Hostname**: Customizes the hostname display with options for SSH only.
+
 **Local IP**: Displays the local IP address when in an SSH session.
+
 **Directory**: Customizes how the current directory is displayed, including truncation length and symbols.
+
 **Memory Usage**: Shows system memory usage with options for disabling, threshold, symbol, and style.
+
 **Custom Git Repo Name**: Displays the name of the git repository.
+
 **Git Branch**: Shows the current git branch with customization options.
+
 **Git Status**: Displays various git status indicators.
+
 **Git Commit**: Shows the current commit hash.
+
 **AWS**: Displays the AWS profile and region.
+
 **Kubernetes**: Shows the current Kubernetes context and namespace.
+
 **Terraform**: Displays Terraform workspace and version.
+
 **Vagrant**: Shows the Vagrant version.
+
 **Docker Context**: Displays the current Docker context.
+
 **Helm**: Shows the Helm version.
+
 **Programming Languages**: Customization options for Python, Node.js, Ruby, Go, and Lua.
 
 ## Enabling Options
