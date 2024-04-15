@@ -95,7 +95,7 @@ profile_aliases = { "default" = "God" }
 
 [kubernetes]
 format = 'via [󱃾 $context\($namespace\)](bold blue) '
-disabled = true
+disabled = false
 #detect_files = ['k8s']
 
 [terraform]
