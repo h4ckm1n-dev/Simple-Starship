@@ -22,7 +22,7 @@ error_symbol = "[](#ff0000)"
 style_user = "bold green"
 style_root = "bold Red"
 format = "[$user®]($style) "
-disabled = true
+disabled = false
 show_always = true
 
 [hostname]
@@ -95,7 +95,7 @@ profile_aliases = { "default" = "God" }
 
 [kubernetes]
 format = 'via [󱃾 $context\($namespace\)](bold blue) '
-disabled = false
+disabled = true
 #detect_files = ['k8s']
 
 [terraform]
